@@ -1,0 +1,13 @@
+C:\Users\Pablo\Documents\C#\Treinos\Nota\Nota\bin\Debug\netcoreapp2.1\Nota.deps.json
+C:\Users\Pablo\Documents\C#\Treinos\Nota\Nota\bin\Debug\netcoreapp2.1\Nota.runtimeconfig.json
+C:\Users\Pablo\Documents\C#\Treinos\Nota\Nota\bin\Debug\netcoreapp2.1\Nota.runtimeconfig.dev.json
+C:\Users\Pablo\Documents\C#\Treinos\Nota\Nota\bin\Debug\netcoreapp2.1\Nota.dll
+C:\Users\Pablo\Documents\C#\Treinos\Nota\Nota\bin\Debug\netcoreapp2.1\Nota.pdb
+C:\Users\Pablo\Documents\C#\Treinos\Nota\Nota\obj\Debug\netcoreapp2.1\Nota.csproj.AssemblyReference.cache
+C:\Users\Pablo\Documents\C#\Treinos\Nota\Nota\obj\Debug\netcoreapp2.1\Nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pablo\Documents\C#\Treinos\Nota\Nota\obj\Debug\netcoreapp2.1\Nota.AssemblyInfoInputs.cache
+C:\Users\Pablo\Documents\C#\Treinos\Nota\Nota\obj\Debug\netcoreapp2.1\Nota.AssemblyInfo.cs
+C:\Users\Pablo\Documents\C#\Treinos\Nota\Nota\obj\Debug\netcoreapp2.1\Nota.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\Documents\C#\Treinos\Nota\Nota\obj\Debug\netcoreapp2.1\Nota.dll
+C:\Users\Pablo\Documents\C#\Treinos\Nota\Nota\obj\Debug\netcoreapp2.1\Nota.pdb
+C:\Users\Pablo\Documents\C#\Treinos\Nota\Nota\obj\Debug\netcoreapp2.1\Nota.genruntimeconfig.cache
